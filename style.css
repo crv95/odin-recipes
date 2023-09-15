@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: rgb(11, 175, 230);
+}
+
+p {
+    color: orange;
+}
+
+.header {
+    font-size: xx-large;
+    font-family:'Courier New', Courier, monospace;
+    color: blue;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.first-item {
+    list-style-type: disc;
+    font-weight: 100;
+}
+
+.second-item {
+    list-style-type: square;
+    font-weight: 600;
+}
+
+.third-item {
+    list-style-type: decimal;
+    font-weight: 800;
+    color: red;
+    border-color: aqua;
+}
